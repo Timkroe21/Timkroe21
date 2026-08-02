@@ -1,6 +1,6 @@
 # Hey, I'm Tim Kröckel 👋
 
-Master Student, **Research Assistant** (*Wissenschaftlicher Mitarbeiter*), and **Tutor** at **University Schmalkalden** with a strong passion for Artificial Intelligence and Computer Vision.
+Master Student, **Research Assistant** (*Wissenschaftlicher Assistent*), and **Tutor** at **University Schmalkalden** with a strong passion for Artificial Intelligence and Computer Vision.
 
 ---
 
